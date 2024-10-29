@@ -73,7 +73,10 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <a className=" text-2xl font-bold cursor-pointer text-red-700">
+            <a
+              className=" text-2xl font-bold cursor-pointer text-red-700"
+              href="/"
+            >
               Guntur MotorWays
             </a>
           </div>
