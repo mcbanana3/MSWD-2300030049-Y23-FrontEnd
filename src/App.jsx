@@ -3,6 +3,9 @@ import Home from "./home/Home";
 import { Route, Routes } from "react-router-dom";
 import Courses from "./courses/Courses";
 import Signup from "./components/Signup";
+import Aboutus from "./about/aboutus";
+import Contactus from "./contact/contactus";
+
 function App() {
   return (
     <>
@@ -11,6 +14,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/course" element={<Courses />} />
           <Route path="/signup" element={<Signup />} />
+          <Route path="/about" element={<Aboutus />} />
+          <Route path="/contact" element={<Contactus />} />
         </Routes>
       </div>
     </>
