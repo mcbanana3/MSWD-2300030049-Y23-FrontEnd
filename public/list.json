@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Kawasaki Ninja ZX-10R",
+        "title": "Kawasaki",
+        "price": 14000,
+        "discount": 1000,
+        "discountApplicable": true,
+        "category": "Sport",
+        "image": "https://i.pinimg.com/originals/34/4d/bc/344dbcbbc947ef8b3610c8782f3a3763.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Harley-Davidson Softail Slim",
+        "title": "Harley-Davidson",
+        "price": 17000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Cruiser",
+        "image": "https://www.harley-davidson.com/content/dam/h-d/images/category-images/2021/short-hero/2021-softail-slim-short-hero.jpg?impolicy=myresize&rw=1100"
+    },
+    {
+        "id": 3,
+        "name": "Ducati Monster 821",
+        "title": "Ducati",
+        "price": 11000,
+        "discount": 1000,
+        "discountApplicable": true,
+        "category": "Naked",
+        "image": "https://c4.wallpaperflare.com/wallpaper/358/559/809/2015-821-ducati-monster-wallpaper-preview.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BMW R1250GS",
+        "title": "BMW",
+        "price": 21000,
+        "discount": 2000,
+        "discountApplicable": true,
+        "category": "Adventure",
+        "image": "https://i.pinimg.com/736x/b7/17/02/b71702dbffa4525ba2a73b7562c513f3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yamaha MT-09",
+        "title": "Yamaha",
+        "price": 10000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Naked",
+        "image": "https://c4.wallpaperflare.com/wallpaper/908/1007/609/2017-yamaha-mt-09-europe-wallpaper-preview.jpg"
+    },
+    {
+        "id": 6,
+        "name": "KTM 1290 Super Duke R",
+        "title": "KTM",
+        "price": 19000,
+        "discount": 1500,
+        "discountApplicable": true,
+        "category": "Naked",
+        "image": "https://images6.alphacoders.com/105/thumb-1920-1053096.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Honda CB500F",
+        "title": "Honda",
+        "price": 7000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Naked",
+        "image": "https://wallpapercave.com/wp/wp5950560.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Suzuki GSX-R1000",
+        "title": "Suzuki",
+        "price": 16000,
+        "discount": 2000,
+        "discountApplicable": true,
+        "category": "Sport",
+        "image": "https://i.pinimg.com/originals/aa/d1/09/aad1093eb2713ae914401c52c71ed4ef.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Yamaha YZF-R1",
+        "title": "Yamaha",
+        "price": 17000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Sport",
+        "image": "https://i.pinimg.com/originals/42/17/4c/42174cbfd859c6ba4e1814cdb2e7e3a9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Kawasaki Z900",
+        "title": "Kawasaki",
+        "price": 9000,
+        "discount": 1000,
+        "discountApplicable": true,
+        "category": "Naked",
+        "image": "https://i.pinimg.com/originals/b5/ce/5f/b5ce5f687d62d457c6f48c607e45227a.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ducati Panigale V2",
+        "title": "Ducati",
+        "price": 17000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Sport",
+        "image": "https://images3.alphacoders.com/132/1322683.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "BMW F850GS",
+        "title": "BMW",
+        "price": 15000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Adventure",
+        "image": "https://i.ytimg.com/vi/YuECpOTIKoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmas5dX6bs1QWYUfbD5LsyoVty1w"
+    },
+    {
+        "id": 13,
+        "name": "Harley-Davidson Street Bob",
+        "title": "Harley-Davidson",
+        "price": 15000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Cruiser",
+        "image": "https://wallpapercat.com/w/full/c/f/b/1750199-3840x2160-desktop-4k-harley-davidson-fat-bob-114-wallpaper-photo.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Kawasaki Versys 650",
+        "title": "Kawasaki",
+        "price": 9000,
+        "discount": 500,
+        "discountApplicable": true,
+        "category": "Adventure",
+        "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/125003/versys-650-right-front-three-quarter.jpeg?isig=0"
+    },
+    {
+        "id": 15,
+        "name": "Yamaha Tenere 700",
+        "title": "Yamaha",
+        "price": 10000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Adventure",
+        "image": "https://m.atcdn.co.uk/ect/media/%7Bresize%7D/278206c8ffb34b2aa9f915e3fe726ed0.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Ducati Multistrada V4",
+        "title": "Ducati",
+        "price": 24000,
+        "discount": 1500,
+        "discountApplicable": true,
+        "category": "Adventure",
+        "image": "https://adventuremotorcycle.com/images/ARTICLES/Bikes/Ducati-Multistrada/2021-Multistrada-V4/2021-Ducati-Multistrada-V4-Static3.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Indian Chief",
+        "title": "Indian",
+        "price": 18000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Cruiser",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnuoBzmJAGTRR5sTWTIXHpAiN7EnCY1FZB-A&s"
+    },
+    {
+        "id": 18,
+        "name": "BMW K1600GT",
+        "title": "BMW",
+        "price": 25000,
+        "discount": 2000,
+        "discountApplicable": true,
+        "category": "Touring",
+        "image": "https://i.ytimg.com/vi/nobpCBoyfX8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYY_Qx4PtBH2qFh776B91LP4uNMA"
+    },
+    {
+        "id": 19,
+        "name": "Harley-Davidson Fat Boy",
+        "title": "Harley-Davidson",
+        "price": 21000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Cruiser",
+        "image": "https://wallpapercat.com/w/full/c/f/b/1750199-3840x2160-desktop-4k-harley-davidson-fat-bob-114-wallpaper-photo.jpg"
+    },
+    {
+        "id": 20,
+        "name": "KTM 390 Duke",
+        "title": "KTM",
+        "price": 6000,
+        "discount": 500,
+        "discountApplicable": true,
+        "category": "Naked",
+        "image": "https://wallpapers.com/images/hd/ktm-duke-390-spotlight-03wfv746btmpyaxe.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Triumph Street Triple RS",
+        "title": "Triumph",
+        "price": 12000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Naked",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXu5Hp3-BLLEJzYZaPY9D2E28G9UprR5V_A&s"
+    },
+    {
+        "id": 22,
+        "name": "Yamaha FZ-07",
+        "title": "Yamaha",
+        "price": 7000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Naked",
+        "image": "https://wallpapercave.com/wp/wp3152173.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Kawasaki Ninja H2",
+        "title": "Kawasaki",
+        "price": 30000,
+        "discount": 2000,
+        "discountApplicable": true,
+        "category": "Sport",
+        "image": "https://wallpapercat.com/w/full/1/f/c/1740250-1920x1080-desktop-full-hd-kawasaki-ninja-h2-background-image.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Suzuki V-Strom 650",
+        "title": "Suzuki",
+        "price": 9000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Adventure",
+        "image": "https://pixelz.cc/wp-content/uploads/2018/12/suzuki-v-strom-1000-uhd-4k-wallpaper.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Ducati Streetfighter V4",
+        "title": "Ducati",
+        "price": 21000,
+        "discount": 1500,
+        "discountApplicable": true,
+        "category": "Naked",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfqBUL4Jx1yyOYd2Hc66GNrgADmrTwG7WlQ&s"
+    },
+    {
+        "id": 26,
+        "name": "BMW S1000RR",
+        "title": "BMW",
+        "price": 19000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Sport",
+        "image": "https://c4.wallpaperflare.com/wallpaper/680/267/805/bmw-bmw-s1000rr-motorcycle-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Honda CRF1100L Africa Twin",
+        "title": "Honda",
+        "price": 14000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Adventure",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QZgNp7QPpqNu-EEqSQoET-Vtpuqg_46VOA&s"
+    },
+    {
+        "id": 28,
+        "name": "Kawasaki KLR650",
+        "title": "Kawasaki",
+        "price": 7000,
+        "discount": 500,
+        "discountApplicable": true,
+        "category": "Adventure",
+        "image": "https://cdn.wallpapersafari.com/32/46/gYx4SA.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Yamaha Niken",
+        "title": "Yamaha",
+        "price": 16000,
+        "discount": 1000,
+        "discountApplicable": true,
+        "category": "Sport",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVkR3ToT399cdne57ZmkiOJRGZivQ2XYLsg&s"
+    },
+    {
+        "id": 30,
+        "name": "Harley-Davidson LiveWire",
+        "title": "Harley-Davidson",
+        "price": 29000,
+        "discount": 0,
+        "discountApplicable": false,
+        "category": "Electric",
+        "image": "https://livewire.widen.net/content/egbj0mjnxq/web/LW1-IMG-LIQUID-BLK-01.jpg?w=1920&retina=true&q=75"
+    }
+]
