@@ -1,14 +1,14 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import contact from "../components/contact";
 import Footer from "../components/Footer";
+import Contact from "../components/contact";
 
 function aboutus() {
   return (
     <>
       <Navbar />
       <div className=" min-h-screen">
-        <contact />
+        <Contact />
       </div>
       <Footer />
     </>
